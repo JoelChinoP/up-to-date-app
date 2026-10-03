@@ -4,6 +4,10 @@
 pagos recurrentes del hogar y detectar aumentos inusuales en sus montos.
 No procesa pagos ni necesita una cuenta o conexión con bancos.
 
+**Aplicación publicada:** https://up-to-date-app.vercel.app
+
+**Video de uso:** [demostración móvil](docs/evidence/demo.webm).
+
 ## MVP
 
 - Servicios y recibos: crear, editar y eliminar, con confirmación al borrar.
@@ -32,6 +36,15 @@ npm test
 npm run build
 npm run preview
 ```
+
+Para repetir las 17 comprobaciones de navegador, con `playwright-cli` disponible:
+
+```sh
+playwright-cli open http://127.0.0.1:4173
+playwright-cli run-code --filename=tests/browser-smoke.js
+```
+
+Estas comprobaciones usan un contexto aislado y no alteran los datos del usuario.
 
 Vercel detecta Vite automáticamente: `npm run build`, salida `dist`.
 No necesita variables de entorno ni un backend.

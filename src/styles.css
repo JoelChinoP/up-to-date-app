@@ -1228,8 +1228,7 @@ form .primary {
 }
 @media (max-width: 680px) {
   .sidebar,
-  .desktop-top-label,
-  .device-label {
+  .desktop-top-label {
     display: none;
   }
   .main-wrap {

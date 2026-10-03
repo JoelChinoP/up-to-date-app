@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="406" viewBox="0 0 760 406">
+  <rect width="760" height="406" fill="white"/>
+  <rect x="1" y="1" width="758" height="44" fill="#eaf5ef"/>
+  <g stroke="#bdcec4" fill="none"><rect x="1" y="1" width="758" height="404"/><path d="M211 1v404M632 1v404M1 45h758M1 105h758M1 165h758M1 225h758M1 285h758M1 345h758"/></g>
+  <g font-family="Arial,sans-serif" fill="#173630" font-size="14">
+    <g font-weight="bold"><text x="17" y="28">Comprobación</text><text x="229" y="28">Resultado observado</text><text x="648" y="28">Estado</text></g>
+    <text x="17" y="79">Registro y edición</text><text x="229" y="71">El recibo conserva monto, fecha y servicio;</text><text x="229" y="91">editar no crea una segunda copia.</text><text x="648" y="79">Correcto</text>
+    <text x="17" y="139">Pago y pendiente</text><text x="229" y="131">El pago reduce el pendiente; volver a pendiente</text><text x="229" y="151">restituye el monto del resumen.</text><text x="648" y="139">Correcto</text>
+    <text x="17" y="199">Duplicados y fechas</text><text x="229" y="191">Se rechaza un segundo recibo del mismo mes</text><text x="229" y="211">y las fechas o montos que no son válidos.</text><text x="648" y="199">Correcto</text>
+    <text x="17" y="259">Variación del monto</text><text x="229" y="251">S/ 92 frente a un promedio de S/ 65:</text><text x="229" y="271">41,5 % de aumento, clasificado como inusual.</text><text x="648" y="259">Correcto</text>
+    <text x="17" y="319">Persistencia y caché</text><text x="229" y="311">Los recibos se mantienen al recargar;</text><text x="229" y="331">la versión cargada abre también sin conexión.</text><text x="648" y="319">Correcto</text>
+    <text x="17" y="379">Recuperación y móvil</text><text x="229" y="371">No se sobrescriben datos corruptos. La vista</text><text x="229" y="391">móvil de 390 px no se desborda horizontalmente.</text><text x="648" y="379">Correcto</text>
+  </g>
+</svg>
