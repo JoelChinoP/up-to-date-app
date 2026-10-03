@@ -8,6 +8,10 @@ No procesa pagos ni necesita una cuenta o conexión con bancos.
 
 **Video de uso:** [demostración móvil](docs/evidence/demo.webm).
 
+**Diseño de referencia:** [cuatro vistas editables en Figma](https://www.figma.com/design/I7Nhgw2uD5ufPbrutX14US).
+`docs/evidence/figma-reference.png` corresponde al diseño, no a la aplicación
+ejecutándose. Las demás capturas de interfaces muestran el MVP publicado.
+
 ## MVP
 
 - Servicios y recibos: crear, editar y eliminar, con confirmación al borrar.
