@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10" fill="none" stroke="#087f6f"/></marker></defs>
+  <rect width="760" height="540" fill="white"/>
+  <g font-family="Arial,sans-serif" fill="#173630" font-size="16" text-anchor="middle">
+    <text x="380" y="34" font-size="22" font-weight="bold">De un recibo a una decisión clara</text>
+    <rect x="260" y="65" width="240" height="48" rx="24" fill="#eaf5ef" stroke="#087f6f"/><text x="380" y="95">Registrar un servicio</text>
+    <rect x="260" y="144" width="240" height="58" rx="8" fill="#f3f7f5" stroke="#9fbcb0"/><text x="380" y="168">Ingresar monto y</text><text x="380" y="190">fecha de vencimiento</text>
+    <path d="m380 234 126 53-126 53-126-53z" fill="#eaf5ef" stroke="#087f6f"/><text x="380" y="283">¿Datos válidos</text><text x="380" y="305">y sin duplicados?</text>
+    <rect x="36" y="260" width="170" height="55" rx="8" fill="#fff5ef" stroke="#c38a65"/><text x="121" y="283">Corregir los</text><text x="121" y="304">datos indicados</text>
+    <rect x="260" y="372" width="240" height="58" rx="8" fill="#f3f7f5" stroke="#9fbcb0"/><text x="380" y="396">Guardar y comparar</text><text x="380" y="417">con los 3 anteriores</text>
+    <rect x="260" y="462" width="240" height="48" rx="24" fill="#eaf5ef" stroke="#087f6f"/><text x="380" y="491">Revisar y marcar el pago</text>
+    <text x="555" y="399" text-anchor="start" font-size="13" fill="#5e726b">Si no hay historial suficiente,</text><text x="555" y="419" text-anchor="start" font-size="13" fill="#5e726b">no se calcula una variación.</text>
+  </g>
+  <g fill="none" stroke="#087f6f" stroke-width="1.7" marker-end="url(#arrow)"><path d="M380 113v31"/><path d="M380 202v32"/><path d="M380 340v32"/><path d="M380 430v32"/><path d="M254 287h-48"/><path d="M121 260v-87h139"/></g>
+  <g font-family="Arial,sans-serif" font-size="12" fill="#5e726b"><text x="390" y="361">Sí</text><text x="222" y="278">No</text></g>
+</svg>
