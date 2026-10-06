@@ -6,7 +6,7 @@ No procesa pagos ni necesita una cuenta o conexión con bancos.
 
 **Aplicación publicada:** https://up-to-date-app.vercel.app
 
-**Video de uso:** [demostración móvil](docs/evidence/demo.webm).
+**Video de uso:** [demostración móvil](docs/evidence/demo.mp4).
 
 **Diseño de referencia:** [cuatro vistas editables en Figma](https://www.figma.com/design/I7Nhgw2uD5ufPbrutX14US).
 `docs/evidence/figma-reference.png` corresponde al diseño, no a la aplicación
